@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSet.cpp
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSet.h
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSetIterator.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSet.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSetIterator.cpp
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSetIterator.h
+exception
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSetIterator.h
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/FixedCapacitySortedSet/SortedSet.h
+
