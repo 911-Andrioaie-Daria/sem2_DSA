@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/App.cpp
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ShortTest.h
+ExtendedTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ExtendedTest.h
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.h
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.h
+iostream
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ExtendedTest.cpp
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.h
+assert.h
+-
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.h
+exception
+-
+ExtendedTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ExtendedTest.h
+iostream
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ExtendedTest.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ShortTest.cpp
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ShortTest.h
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.h
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.h
+assert.h
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/ShortTest.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.cpp
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.h
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.cpp
+SortedSetIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.h
+exception
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSetIterator.h
+SortedSet.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 5/SortedSet/SortedSet.h
+
