@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/App.cpp
+SortedBag.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+SortedBagIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.h
+iostream
+-
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ShortTest.h
+ExtendedTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ExtendedTest.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ExtendedTest.cpp
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ShortTest.h
+SortedBag.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+SortedBagIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.h
+assert.h
+-
+iostream
+-
+exception
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ExtendedTest.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ShortTest.cpp
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ShortTest.h
+SortedBag.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+SortedBagIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.h
+assert.h
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/ShortTest.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.cpp
+SortedBag.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+SortedBagIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+utility
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/utility
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.cpp
+SortedBagIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.h
+SortedBag.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+exception
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBagIterator.h
+SortedBag.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/SortedBag.h
+

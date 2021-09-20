@@ -1,0 +1,3 @@
+C:\Users\daria\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Sorted_Bag.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Sorted_Bag.dir/objects.a @CMakeFiles\Sorted_Bag.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Sorted_Bag.dir/objects.a -Wl,--no-whole-archive -o Sorted_Bag.exe -Wl,--out-implib,libSorted_Bag.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sorted_Bag.dir\linklibs.rsp

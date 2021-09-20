@@ -1,0 +1,3 @@
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/cmake-build-debug/CMakeFiles/Sorted_Bag.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 4/Sorted Bag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
