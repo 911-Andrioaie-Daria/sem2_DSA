@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/App.cpp
+ExtendedTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ExtendedTest.h
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ShortTest.h
+Map.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+iostream
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ExtendedTest.cpp
+ExtendedTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ExtendedTest.h
+Map.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+MapIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/MapIterator.h
+assert.h
+-
+iostream
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ExtendedTest.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.cpp
+Map.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+MapIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/MapIterator.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+utility
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/MapIterator.cpp
+Map.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+MapIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/MapIterator.h
+exception
+-
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/MapIterator.h
+Map.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ShortTest.cpp
+ShortTest.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ShortTest.h
+assert.h
+-
+Map.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/Map.h
+MapIterator.h
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/MapIterator.h
+
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 3/Map/ShortTest.h
+
