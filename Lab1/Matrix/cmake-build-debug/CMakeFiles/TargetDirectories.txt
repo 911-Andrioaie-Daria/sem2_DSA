@@ -1,0 +1,3 @@
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 1/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 1/Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daria/Documents/study/facultate/anul 1/semestrul 2/SDA/Lab/Lab 1/Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
